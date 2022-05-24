@@ -3,7 +3,7 @@
 <!-- endhide -->
 As a developer, you are given the task to replicate a picture as a website.
 
-## 🌱  How to start this project
+## 🌱  How to start this project!
 
 Do not clone this repository. The first step to start coding is cloning the [html boilerplate](https://github.com/4GeeksAcademy/html-hello) on your local computer or opening it using gitpod.
 
